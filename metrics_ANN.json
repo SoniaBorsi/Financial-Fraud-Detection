@@ -1,0 +1,14 @@
+{
+  "CV_roc_auc": 0.9596029935002054,
+  "CV_auprc": 0.8378457654358845,
+  "CV_f2": 0.8167510906621407,
+  "ROC_AUC": 0.9504415518161927,
+  "AUPRC": 0.7838789004485235,
+  "F2": 0.7671232876712328,
+  "Precision_Pos": 0.8115942028985508,
+  "Recall_Pos": 0.7567567567567568,
+  "conf_mat_path": "results/cm_ANN.png",
+  "roc_path": "results/roc_ANN.png",
+  "pr_path": "results/pr_ANN.png",
+  "cal_path": "results/cal_ANN.png"
+}

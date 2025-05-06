@@ -1,0 +1,14 @@
+{
+  "CV_roc_auc": 0.9779691840187421,
+  "CV_auprc": 0.7718475498992863,
+  "CV_f2": 0.7927135385791377,
+  "ROC_AUC": 0.9614961112704239,
+  "AUPRC": 0.725445369832502,
+  "F2": 0.7634543178973717,
+  "Precision_Pos": 0.5893719806763285,
+  "Recall_Pos": 0.8243243243243243,
+  "conf_mat_path": "results/cm_SVM.png",
+  "roc_path": "results/roc_SVM.png",
+  "pr_path": "results/pr_SVM.png",
+  "cal_path": "results/cal_SVM.png"
+}

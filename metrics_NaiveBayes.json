@@ -1,0 +1,14 @@
+{
+  "CV_roc_auc": 0.9619950186647737,
+  "CV_auprc": 0.09150407796520418,
+  "CV_f2": 0.2376255833908827,
+  "ROC_AUC": 0.9571682063680421,
+  "AUPRC": 0.08225874836070807,
+  "F2": 0.22559171597633135,
+  "Precision_Pos": 0.05776515151515151,
+  "Recall_Pos": 0.8243243243243243,
+  "conf_mat_path": "results/cm_NaiveBayes.png",
+  "roc_path": "results/roc_NaiveBayes.png",
+  "pr_path": "results/pr_NaiveBayes.png",
+  "cal_path": "results/cal_NaiveBayes.png"
+}

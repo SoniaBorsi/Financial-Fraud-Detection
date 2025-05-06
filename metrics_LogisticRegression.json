@@ -1,0 +1,15 @@
+{
+  "CV_roc_auc": 0.9702434303189603,
+  "CV_auprc": 0.7555427849427057,
+  "CV_f2": 0.271354102880507,
+  "ROC_AUC": 0.9779073867914906,
+  "AUPRC": 0.7621946707547436,
+  "F2": 0.23216031280547408,
+  "Precision_Pos": 0.05885997521685254,
+  "Recall_Pos": 0.8796296296296297,
+  "conf_mat_path": "results/cm_LogisticRegression.png",
+  "roc_path": "results/roc_LogisticRegression.png",
+  "pr_path": "results/pr_LogisticRegression.png",
+  "cal_path": "results/cal_LogisticRegression.png",
+  "shap_path": "results/shap_LogisticRegression.png"
+}

@@ -1,0 +1,14 @@
+{
+  "CV_roc_auc": 0.9342366834488139,
+  "CV_auprc": 0.7036636145671775,
+  "CV_f2": 0.7592854426132444,
+  "ROC_AUC": 0.9218881449595442,
+  "AUPRC": 0.6575060353179136,
+  "F2": 0.7376058041112454,
+  "Precision_Pos": 0.5191489361702127,
+  "Recall_Pos": 0.8243243243243243,
+  "conf_mat_path": "results/cm_KNN.png",
+  "roc_path": "results/roc_KNN.png",
+  "pr_path": "results/pr_KNN.png",
+  "cal_path": "results/cal_KNN.png"
+}

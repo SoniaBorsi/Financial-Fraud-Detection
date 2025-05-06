@@ -1,0 +1,85 @@
+Train: (199364, 29)  |  Test: (85443, 29)
+Running 5-fold CV …
+Training final model → LogisticRegression
+
+── Cross-validation Summary ──
+CV_roc_auc: 0.9781
+CV_auprc: 0.7773
+CV_f2: 0.2507
+
+── Hold-out Evaluation Summary ──
+ROC_AUC: 0.9678
+AUPRC: 0.7041
+F2: 0.2361
+Precision_Pos: 0.0603
+Recall_Pos: 0.8716
+
+-----------------------------------------------------------------------------------
+Training final model → SVM
+── Cross-validation Summary ──
+CV_roc_auc: 0.9780
+CV_auprc: 0.7718
+CV_f2: 0.7927
+
+── Hold-out Evaluation Summary ──
+ROC_AUC: 0.9615
+AUPRC: 0.7254
+F2: 0.7635
+Precision_Pos: 0.5894
+Recall_Pos: 0.8243
+-----------------------------------------------------------------------------------
+Training final model → RandomForest    
+── Cross-validation Summary ──
+CV_roc_auc: 0.9600
+CV_auprc: 0.8582
+CV_f2: 0.8035
+
+── Hold-out Evaluation Summary ──
+ROC_AUC: 0.9360
+AUPRC: 0.8172
+F2: 0.7439
+Precision_Pos: 0.9720
+Recall_Pos: 0.7027
+-----------------------------------------------------------------------------------
+Training final model → NaiveBayes
+
+── Cross-validation Summary ──
+CV_roc_auc: 0.9620
+CV_auprc: 0.0915
+CV_f2: 0.2376
+
+── Hold-out Evaluation Summary ──
+ROC_AUC: 0.9572
+AUPRC: 0.0823
+F2: 0.2256
+Precision_Pos: 0.0578
+Recall_Pos: 0.8243
+-----------------------------------------------------------------------------------
+Training final model → KNN
+
+── Cross-validation Summary ──
+CV_roc_auc: 0.9342
+CV_auprc: 0.7037
+CV_f2: 0.7593
+
+── Hold-out Evaluation Summary ──
+ROC_AUC: 0.9219
+AUPRC: 0.6575
+F2: 0.7376
+Precision_Pos: 0.5191
+Recall_Pos: 0.8243
+-----------------------------------------------------------------------------------
+Training final model → ANN
+
+── Cross-validation Summary ──
+CV_roc_auc: 0.9596
+CV_auprc: 0.8378
+CV_f2: 0.8168
+
+── Hold-out Evaluation Summary ──
+ROC_AUC: 0.9504
+AUPRC: 0.7839
+F2: 0.7671
+Precision_Pos: 0.8116
+Recall_Pos: 0.7568
+

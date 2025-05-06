@@ -1,0 +1,15 @@
+{
+  "CV_roc_auc": 0.9600173779910308,
+  "CV_auprc": 0.8581868343919525,
+  "CV_f2": 0.8035254874922014,
+  "ROC_AUC": 0.936016020710317,
+  "AUPRC": 0.8172139889634695,
+  "F2": 0.7439198855507868,
+  "Precision_Pos": 0.9719626168224299,
+  "Recall_Pos": 0.7027027027027027,
+  "conf_mat_path": "results/cm_RandomForest.png",
+  "roc_path": "results/roc_RandomForest.png",
+  "pr_path": "results/pr_RandomForest.png",
+  "cal_path": "results/cal_RandomForest.png",
+  "shap_path": "results/shap_RandomForest.png"
+}

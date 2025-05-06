@@ -1,0 +1,7 @@
+dataset: "creditcard.csv"
+
+model: "ANN"   # choose ONE: RandomForest, LogisticRegression, SVM, NaiveBayes, KNN, ANN
+
+test_size: 0.30
+random_state: 42
+shap_sample_size: 1000
