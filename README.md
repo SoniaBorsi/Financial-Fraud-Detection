@@ -41,7 +41,7 @@ shap_sample_size: 1000
 
 ## How to run
 
-Install dependencies:
+1. Install dependencies:
 
 ```
 python -m venv venv
@@ -50,11 +50,14 @@ pip install -r requirements.txt
 
 ```
 
-Run the pipeline: 
+2. Download the dataset and put it in the ``datasets\`` folder.
+3. Run the pipeline:
 
 ```
 python3 main.py
 ```
+
+All results (trained models, evaluation plots, confusion matrices, ROC/PR/Calibration curves) will be saved in the `results/` directory.
 
 All results (trained models, evaluation plots, confusion matrices, ROC/PR/Calibration curves) will be saved in the** **`results/` directory.
 
