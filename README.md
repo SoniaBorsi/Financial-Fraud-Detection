@@ -69,7 +69,7 @@ All results (trained models, evaluation plots, confusion matrices, ROC/PR/Calibr
 * K-Nearest Neighbors (KNN)
 * Naive Bayes
 * Random Forest
-* Artificial Neural Network (ANN)
+* Neural Network (ANN)
 
 ## Evaluation Metrics
 
@@ -78,9 +78,3 @@ All results (trained models, evaluation plots, confusion matrices, ROC/PR/Calibr
 * Precision-Recall Curve and AUPRC
 * Calibration Curves (Reliability Diagrams)
 
-## Key Highlights
-
-* Handles **highly imbalanced data** using SMOTETomek
-* Evaluates both ****classification performance** and** **probability calibration**
-* Modular and reusable code with clean pipeline structure
-* Easily switch models or configurations via   `config.yaml`
