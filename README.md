@@ -59,9 +59,6 @@ python3 main.py
 
 All results (trained models, evaluation plots, confusion matrices, ROC/PR/Calibration curves) will be saved in the `results/` directory.
 
-All results (trained models, evaluation plots, confusion matrices, ROC/PR/Calibration curves) will be saved in the** **`results/` directory.
-
-
 ## Models Supported
 
 * Logistic Regression
