@@ -1,4 +1,4 @@
-# `Financial Fraud Detection System
+# Financial Fraud Detection System
 
 This project implements a comparative study of several machine learning models for detecting fraudulent credit card transactions. It includes data preprocessing, model training, evaluation, calibration analysis, and visualization on a real-world imbalanced dataset.
 
